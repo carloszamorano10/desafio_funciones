@@ -29,12 +29,5 @@ const pintarNegro = (elemento, color) =>{
 pintarNegro()  
 
 
-const divCambio = document.getElementById("key")
 
-divCambio.addEventListener('keydown', function (event) {
-    if (event.key === 'a') {
-       divCambio.style.backgroundColor = "pink"
-    } else if (event.key === 's') {
-       divCambio.style.backgroundColor = "orange"
-    }
-    })
+
