@@ -9,3 +9,5 @@ let suma = function(a, b){
 const suma = (a, b) => {
     return a + b
 }
+
+suma()
