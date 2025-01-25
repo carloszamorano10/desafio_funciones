@@ -4,7 +4,7 @@ let suma = function(a, b){
     }
  */
 
-// arrow funcition
+// arrow funcition de una línea
 
 const suma = (a, b) => a + b;
 
