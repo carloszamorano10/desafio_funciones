@@ -1,0 +1,38 @@
+#divUno{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+}
+
+#divDos{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
+
+#divTres{
+    width: 200px;
+    height: 200px;
+    background-color: green;
+}
+
+#divCuatro{
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+}
+
+.contCuatro{
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+
+#key{
+    margin: 100px;
+    width: 200px;
+    height: 200px;
+    background-color: white;
+    border: 4px solid black;
+}

@@ -6,8 +6,5 @@ let suma = function(a, b){
 
 // arrow funcition
 
-const suma = (a, b) => {
-    return a + b
-}
+const suma = (a, b) => a + b;
 
-suma()
